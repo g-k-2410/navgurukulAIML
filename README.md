@@ -1,2 +1,2 @@
 # AIMLInterviewer
-Navgurukul hiring challenge for AI/ML developer role.
+hiring challenge for AI/ML developer role.
